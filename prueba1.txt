@@ -1,2 +1,2 @@
-This is an example, just an examle as it
+This is an example, jus an example
 This is a change in a different git branch
