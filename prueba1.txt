@@ -1,1 +1,2 @@
 This is an example
+This is a change in a different git branch
