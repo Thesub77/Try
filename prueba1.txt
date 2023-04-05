@@ -1,2 +1,3 @@
 This is an example
 This is a change in a different git branch
+Now, this is an active try to use a multiple git branches on github
